@@ -8,7 +8,7 @@ Welcome to our Quiz Website! This interactive platform allows users to participa
 ✅ User-friendly interface  
 ✅ Diverse quiz categories    
 ✅ Score tracking and leaderboard  
-✅ Interactive and engaging design  
+✅ Interactive and engaging design 
 ✅ Mobile-responsive  
 
 ## 🛠️ Technologies Used
