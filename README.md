@@ -19,9 +19,6 @@ Welcome to our Quiz Website! This interactive platform allows users to participa
 ## 🌍 Contribution
 Contributions are always welcome! If you have any suggestions or want to report a bug, please feel free to https://github.com/Snehakrn/Intern_Crowd_Task3/issues or submit a pull request.
 
-## 📝 License
-This project is licensed under the [MIT License](LICENSE).
-
 ## 📧 Contact
 If you have any questions or inquiries, please feel free to reach out to us at contact@quizwebsite.com.
 
