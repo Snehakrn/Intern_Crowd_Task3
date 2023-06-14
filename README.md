@@ -1,4 +1,3 @@
-# Intern_Crowd_Task3
 ## Quiz Website ❓
 
 ## 📖 Description
